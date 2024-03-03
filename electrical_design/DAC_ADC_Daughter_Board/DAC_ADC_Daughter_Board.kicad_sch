@@ -677,7 +677,6 @@
     )
   )
 
-
   (junction (at 118.745 139.065) (diameter 0) (color 0 0 0 0)
     (uuid 337e8520-cbd2-42c0-8d17-743bab17cbbd)
   )
@@ -844,7 +843,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9e295bad-84c3-4c5e-80a4-b2eff737157d)
   )
-  (text "I2C_Addr: 0x9A" (at 144.78 115.57 0)
+  (text "I2C_Addr: 0x4D" (at 144.78 115.57 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d08ca9f9-96f6-4fa5-80db-536b9e275122)
   )
