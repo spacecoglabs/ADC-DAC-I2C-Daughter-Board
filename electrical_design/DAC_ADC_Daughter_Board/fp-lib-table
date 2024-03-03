@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "ExternalConnectors")(type "KiCad")(uri "${KIPRJMOD}/ExternalConnectors.pretty")(options "")(descr ""))
+  (lib (name "ADC081C021CIMK")(type "KiCad")(uri "${KIPRJMOD}/ADC_DAC_Footprints/ADC081C021CIMK.pretty")(options "")(descr ""))
+  (lib (name "DAC5571IDBVR")(type "KiCad")(uri "${KIPRJMOD}/ADC_DAC_Footprints/DAC5571IDBVR.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/logo.pretty")(options "")(descr ""))
+)
